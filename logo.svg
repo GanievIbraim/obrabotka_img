@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="60" viewBox="0 0 158 60">
+  <rect x="2" y="2" width="152" height="56" rx="12" ry="12" 
+        stroke="grey" fill="none" stroke-width="4" stroke-dasharray="20,10"/>
+  <text x="10" y="38" font-family="Verdana" font-size="30" font-weight="bold" 
+        stroke="black" stroke-width="1" fill="gray" fill-opacity="0.2">$ Ibra $</text>
+</svg>
